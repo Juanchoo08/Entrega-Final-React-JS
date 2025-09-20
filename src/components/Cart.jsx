@@ -10,7 +10,9 @@ export default function Cart() {
         return (
             <div style={{ padding: 24 }}>
                 <h2>Carrito vacío</h2>
-                <Link to="/">Regreso al catálogo</Link>
+                <button>
+                    <Link to="/" style={{ color: "white", textDecoration: "none" }}>Regreso al catálogo</Link>
+                </button>
             </div>
         );
     }

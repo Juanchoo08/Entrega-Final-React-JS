@@ -14,7 +14,7 @@ Incluye:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/proyecto-final-alvarez.git
+   git clone https://github.com/Juanchoo08/Entrega-Final-React-JS.git
    cd proyecto-final-alvarez
 
 Gracias por su atención.
